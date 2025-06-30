@@ -1,4 +1,4 @@
 {
-  "current_version": "0.123",
-  "version_info": "+ New world: SunySunyIsland\n-+ Carry ability (carring stuff))\n-+SilverSuns is now giving a hp\n-+breadbox (contains 3 hp)\nRemade BlockyTower\n- Fixed more bugs & problems\n- Fixed unreasonable limits"
+  "current_version": "0.129",
+  "version_info": "+doublekong (2x kong to dive)\n+challenges (yet gives nothing, but is helpfull sometimes)\n+game story intro\n+tutorial\n+local progressions (palms, coins, custom items etc) will be stored even the game is closed down\n+view totals\n+nicer fontstyle\n+better slide sound\nfixed: craqy turns back in longjumps"
 }
