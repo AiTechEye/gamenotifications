@@ -1,6 +1,7 @@
 {
   "current_version": "0.145",
-  "version_info":"0.145\n+World 8: maximumhome (with music)\n+new areas available\n+new move icetomato\n+new item icetomato\n*fixed cant use flypads\n+jump & fall while aiming\n-removed wating on animation on aiming and more\n0.143\nReorganized the game, this means you have to re unlock the worlds and gates again, takes only 2 minutes.\nThis must be done to move the cave/tunnels to it's own world and to not cause confusion.\n+World 7: BabbelDesert (no music yet)\n+3 new areas in the Cave tunnels\n+mainmanu music\n+move: Spring (available in World 7)\n+Move: swining (bars) (available in World 9)\n+Item: Lifestatue (extra life)\n+Item: Spring (jumps)\n+Patch support, (downloadable quick fixes for current releases, instead of download the entire game.)\n*Fixed more bugs and problems"
+  "version_info":"0.145\n+World 8: maximumhome (with music)\n+new areas available\n+new move icetomato\n+new item icetomato\n*fixed cant use flypads\n+jump & fall while aiming\n-removed wating on animation on aiming and more (much better FPS handling)\n0.143\nReorganized the game, this means you have to re unlock the worlds and gates again, takes only 2 minutes.\nThis must be done to move the cave/tunnels to it's own world and to not cause confusion.\n+World 7: BabbelDesert (no music yet)\n+3 new areas in the Cave tunnels\n+mainmanu music\n+move: Spring (available in World 7)\n+Move: swining (bars) (available in World 9)\n+Item: Lifestatue (extra life)\n+Item: Spring (jumps)\n+Patch support, (downloadable quick fixes for current releases, instead of download the entire game.)\n*Fixed more bugs and problems"
 }
+
 
 
